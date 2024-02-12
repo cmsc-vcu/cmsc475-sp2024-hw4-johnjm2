@@ -1,4 +1,6 @@
 # Homework 4 - Dynamic Calling Cards - navigation prototypes
+Joel John
+2/12/2024
 
 This assignment focuses on developing a working navigation prototype in Figma.
 

@@ -1,100 +1,124 @@
 ---
 title: Homework 4 - Designing a navigation strategy
-author: default author
-date: last-modified
+author: Joel author
+date: 2/12/2023
 format:
   html:
     embed-resources: true
     theme: cosmo
 ---
 
-* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
-* [LINK to FIGMA PROTOTYPE CODE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw4-johnjm2.git)
+* [LINK to FIGMA PROTOTYPE CODE](https://www.figma.com/file/AJ24JC8fjyHv92X2mmaDeK/HW4?type=design&node-id=34%3A124&mode=design&t=NIhS6K6OffW6vbVe-1)
 
 
-(this is the sample document.  You need to make it your own.)
+In this phase of our project, we turn our attention to the critical aspect of navigation within the Dynamic Calling Card (DCC). Building on the visual and interactive components developed in earlier assignments, Homework 4 challenges us to design a navigation system that is both intuitive and engaging. Utilizing Figma, we aim to create a prototype that demonstrates how users will move between different panels of the DCC, ensuring a smooth and coherent experience. This report documents the design process, the decisions made, and the rationale behind the chosen navigation strategy, setting the stage for its future implementation in P5JS.
 
-(Your report should follow the outline below, found under the easter eggs.)
-
-# Easter eggs for this report (remove)
-
-Remove these sections and start your report with the introduction below.
-
-## How would you build this in P5JS? (remove)
-
-```{=html}
-<center>
-<iframe src="https://giphy.com/embed/l1g3RddMFNWNcJ1wiD" 
- data-external="1" 
-width="347"
-height="480" 
-frameBorder="0" 
-class="giphy-embed" 
-allowFullScreen
-></iframe>
-</center>
-```
-**Questions**
-
-* How many layers would you need?
-* How many assets would you need?
-* How would you construct this in P5.js?
-
-Please remove this section.  You do not need to submit responses as part of this homework assignment. 
-I added it just to keep you thinking! 
-
-## Want to be a web designer? (remove)
-
-![](./assets/web-designer-infographic.jpeg)
-
+# Journey of a young man
 
 # Introduction
 
-- Explain the purpose of the navigation strategy.
-- Briefly describe the story told in five (or more) panels.
+The story of the young man unfolds through a journey of self-discovery, passion, and growth. From the strumming of his guitar on a stage filled with passion, navigating adventures on the open sea, to embracing diversity through community engagement, and innovating for a sustainable future in his lab. He explores his creativity in a vibrant art studio, stands resilient against life's challenges, and fosters deep connections with those around him. His journey, marked by curiosity and the empowerment of others, culminates in a moment of serene reflection, symbolizing the harmonious balance he's achieved. Through diverse experiences, he learns the value of each facet of his life, weaving them into a rich tapestry that defines his unique path.
 
-# Panels to Include
+The purpose of the naviagation strategy is for the card viewers to understand a beautify jouney of a young man but going through each picture by clicking arrows(For Iphone apps)
 
-(This section can be reused from a previous homework assignment.)
-(there should be at least 5 subsections, one for each panel.)
 
-## Panel 1 (rename section)
+## Calling Card
 
-![](assets/panel1.png)
+![](assets/callingcard.png)
 
-- description
-- message to convey
+Joel John
+Computer Science B.s
 
-## Panel 2 (rename section)
+* [LinkedIn](https://www.linkedin.com/in/joyelljohn/)
 
-![](assets/panel2.png)
+## Passion
 
-- description
-- message to convey
+![](assets/passion.png)
 
-## Include sections for other panels
+Description: A young man, guitar in hand, stands illuminated on stage, lost in a powerful performance. His eyes are closed, a gesture of deep immersion in the music, as notes fill the air around him.
 
-(more stuff here)
+Message: This scene is a vivid portrayal of passion, depicting the transformative power of connecting deeply with one's art. It underscores the idea that pursuing what one loves can elevate the spirit and touch the hearts of others.
+
+
+## Adventure
+
+![](assets/adventure.png)
+
+Description: Against the backdrop of a vast ocean and a sky painted with the hues of dawn, a young man steers a sailboat with a look of determination. The expansive sea before him mirrors the boundless nature of his adventurous spirit.
+
+Message: This image evokes the essence of adventure — a call to embrace the journey of life with courage and an open heart. It reminds us that every horizon promises new discoveries and personal growth.
+
+
+## Creativity
+
+![](assets/creativity.png)
+
+Description: In a bright studio filled with art supplies, a young man paints passionately, surrounded by vibrant canvases.
+
+Message: This image emphasizes the essence of creativity—transforming imagination into art that reflects the soul's unique language.
+
+
+## Diversity
+
+![](assets/diversity.png)
+
+Description: In the green expanse of a community park, a young man kneels to plant a tree, surrounded by a mosaic of individuals each contributing to the task. Their collective action paints a picture of unity in diversity.
+
+Message: The picture celebrates diversity, not just as a concept, but as a living, breathing practice of coming together to enrich our communities. It shows that our differences, when harmonized, can foster a sustainable and vibrant world.
+
+
+## Innovation
+
+![](assets/innovation.png)
+
+Description: Inside a bustling lab filled with the glow of screens and the promise of tomorrow, a young man examines a solar energy prototype. Around him, technology and greenery coexist, symbolizing a bridge between human ingenuity and environmental care.
+
+Message: This scene champions the spirit of innovation, particularly in pursuit of sustainability. It illustrates that through creativity and technological advancement, we can forge solutions that respect and preserve our planet for future generations.
+
+
+## Resilience
+
+![](assets/resilience.png)
+
+Description: Atop a rugged peak, a young man stands firm, facing the onslaught of a tempest. His posture is one of defiance and strength, a testament to his resilience against the elements and the challenges they represent.
+
+Message: This powerful imagery serves as a metaphor for resilience in the face of life's storms. It conveys that enduring hardships with strength and determination can lead us to emerge stronger, more grounded, and prepared for whatever comes our way.
+
+
+## Journey - The End
+
+![](assets/journey.png)
+
+Description: The scene unfolds in a tranquil landscape at twilight, capturing the essence of a young man's journey. Elements from his life—his guitar, the sailboat, a vibrant garden, and a technology-filled lab—are harmoniously integrated into the serene setting. Each object tells a part of his story, from his passion for music and adventure to his commitment to sustainability and innovation.
+
+Message: This image serves as a testament to the power of embracing diverse interests and experiences. It reflects the idea that the journey of self-discovery and growth is a mosaic of our passions, challenges, and achievements, leading to a fulfilling and well-rounded life. The phrase "journey's end." not only marks a conclusion but also celebrates the beginning of new chapters, reminding us that every end is just a new beginning waiting to unfold.
+
 
 # Navigation Goals
 
-- State what you want users to achieve by navigating through the panels.
-- Highlight the key points or emotions to convey.
+The navigation goal is for the viewers to understand the story of a young man's journey going through each pictures by clicking arrows.
+
+- Passion for music and the arts, as seen through his immersive guitar performances.
+- Adventure-seeking spirit, demonstrated by his ventures on the open sea.
+- Innovative mindset, with a focus on sustainable technologies.
+- Resilience in the face of challenges, standing strong against adversity.
+- Creativity in expression, captured in the vibrant chaos of his art studio.
+- Diversity: Celebrates inclusivity and unity through community engagement.
+- Journey's End: Symbolizes a harmonious conclusion of diverse life experiences.
 
 # Navigation Elements
 
-- Explain how users will move from one panel to another.
-- Mention if there are buttons, arrows, or gestures involved.
+- The users would navigate by clicking arrow icons (Left and Right)
 
 # Figma mockup
 
-- Add the figma mockup in an iframe.
-- Explain how to use it in this section.
+- Simply click the arrow icons to navigate through each panels.
 
 ```{=html}
 <center>
 <iframe
-src="https://editor.p5js.org/reajmorais/full/8UxKOWank"
+src="https://www.figma.com/proto/AJ24JC8fjyHv92X2mmaDeK/HW4?type=design&node-id=34-126&t=Kxiaj3xd0w8XxNhM-1&scaling=scale-down&page-id=1%3A2&starting-point-node-id=1%3A3&mode=design"
 width=1100
 height=850
 data-external="1"
@@ -104,14 +128,10 @@ data-external="1"
 
 # User Testing
 
-- Share your design with someone else.
-- Explain your user testing procedure.  What did you ask?  What did they say?
-- Consider their feedback and make adjustments as needed.
+I shared it with my close friend. I asked him how it looks like and is it user-friendly. He said it is user-friendly and he was able to understand most of themes of the young man's journey. Though, I could improve on making it look better and be more creative.
 
 
 # Reflection
 
-* What did you find most satisfying about this assignment?
-* What did you find most difficult about this assignment? 
-* Given more time, what would you do differently?
+I really enjoyed working on this assignment. The most satisfying this is definitely testing out the app by navigating through the panels by clicking icons. The most difficult would be trying to understand how figma works like how to connect between frames and bringing in icons. If I had more time I would spent time time making it look better and be creative like my friend suggested.
 
