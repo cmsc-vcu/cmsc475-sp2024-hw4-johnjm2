@@ -20,7 +20,7 @@ In this phase of our project, we turn our attention to the critical aspect of na
 
 The story of the young man unfolds through a journey of self-discovery, passion, and growth. From the strumming of his guitar on a stage filled with passion, navigating adventures on the open sea, to embracing diversity through community engagement, and innovating for a sustainable future in his lab. He explores his creativity in a vibrant art studio, stands resilient against life's challenges, and fosters deep connections with those around him. His journey, marked by curiosity and the empowerment of others, culminates in a moment of serene reflection, symbolizing the harmonious balance he's achieved. Through diverse experiences, he learns the value of each facet of his life, weaving them into a rich tapestry that defines his unique path.
 
-The purpose of the naviagation strategy is for the card viewers to understand a beautify jouney of a young man but going through each picture by clicking arrows(For Iphone apps)
+The purpose of the naviagation strategy is for the card viewers to understand a beautify jouney of a young man but going through each picture by clicking arrows.
 
 
 ## Calling Card
@@ -28,6 +28,7 @@ The purpose of the naviagation strategy is for the card viewers to understand a 
 ![](assets/callingcard.png)
 
 Joel John
+
 Computer Science B.s
 
 * [LinkedIn](https://www.linkedin.com/in/joyelljohn/)
